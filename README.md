@@ -1,3 +1,7 @@
+# ARCHIVE COPY
+
+Note that these docs is archived + heavily out of sync, and is replaced by : https://docs.uilicious.com/
+
 # Welcome!
 
 [UI-licious](https://uilicious.com) is a **simple** and **robust** tool for automating interactions with modern web applications.
